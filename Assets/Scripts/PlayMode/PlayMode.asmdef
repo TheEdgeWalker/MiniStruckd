@@ -1,0 +1,17 @@
+{
+    "name": "PlayMode",
+    "references": [
+        "GUID:4f2d9d8e4e3ac4e0a8c5f5ec80fd0b4c",
+        "GUID:f65df2e3b09a54cc2a74b5bca4406867",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

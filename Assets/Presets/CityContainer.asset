@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cdd70b2fcad4753b056ad28ffc5c92, type: 3}
+  m_Name: CityContainer
+  m_EditorClassIdentifier: 
+  cities:
+  - name: London
+    offset: 0
+  - name: Berlin
+    offset: 1
+  - name: Moscow
+    offset: 3
+  - name: New York
+    offset: -5
+  - name: Sydney
+    offset: 11
+  - name: Hong Kong
+    offset: 8
+  - name: Bologna
+    offset: 1
